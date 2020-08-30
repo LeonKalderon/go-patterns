@@ -1,4 +1,4 @@
-package singleton
+package creational
 
 type singleton struct {
 	calls     int
