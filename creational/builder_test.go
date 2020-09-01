@@ -1,4 +1,4 @@
-package builder
+package creational
 
 import "testing"
 import "strconv"

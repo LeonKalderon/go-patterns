@@ -1,4 +1,4 @@
-package builder
+package creational
 
 type Product struct {
 	Wheels int
